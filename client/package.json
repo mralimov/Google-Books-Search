@@ -1,5 +1,5 @@
 {
-  "name": "Google-books-search",
+  "name": "client",
   "version": "0.1.0",
   "private": true,
   "proxy": "ttp://localhost:3001/",
