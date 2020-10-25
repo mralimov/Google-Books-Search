@@ -1,0 +1,19 @@
+{
+  "name": "google-books-search",
+  "version": "1.0.0",
+  "description": "Searching books from google",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mralimov/Google-Books-Search.git"
+  },
+  "author": "Donnie Alimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mralimov/Google-Books-Search/issues"
+  },
+  "homepage": "https://github.com/mralimov/Google-Books-Search#readme"
+}
